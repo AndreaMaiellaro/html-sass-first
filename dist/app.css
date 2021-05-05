@@ -2,6 +2,16 @@ body {
   background-color: aquamarine;
 }
 
+h2 {
+  color: red;
+}
+
+p {
+  color: red;
+}
+
 button {
-  padding: 10 20px;
+  font-size: 25px;
+  color: red;
+  background-color: black;
 }
